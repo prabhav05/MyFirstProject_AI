@@ -1,2 +1,2 @@
-#Rock-Paper-Scisso A.I.
+#Rock-Paper-Scissor A.I.
 # MyFirstProject_AI
